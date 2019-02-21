@@ -1,0 +1,42 @@
+.navigate{
+    background-color: #bd5d38
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+.linkcolor{
+    color:whitesmoke;
+}
+.content{
+    border-color: #bd5d38;
+    border-style: solid;
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa {
+    display: inline-block;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #495057;
+    color: #fff!important;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3.5rem;
+    margin-right: 1rem;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.rotate{
+    width: 288px;
+    height: 304px;
+    transform: rotate(-90deg);
+}
